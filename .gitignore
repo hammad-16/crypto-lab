@@ -1,0 +1,12 @@
+target/
+build/
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.key
+*.pem
+*.jks
+*.p12
