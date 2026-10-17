@@ -10,3 +10,7 @@ out/
 *.pem
 *.jks
 *.p12
+node_modules/
+dist/
+.env
+*.enc
